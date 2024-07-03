@@ -22,7 +22,7 @@ Choose a language to get started :smiley:
 # A scrollable side bar showing past translations
 
 # Load the values from .env
-key = os.environ['KEY']
+key = os.get.environ['KEY']
 endpoint = os.environ['ENDPOINT']
 location = os.environ['LOCATION']
 
